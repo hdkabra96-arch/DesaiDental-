@@ -51,7 +51,7 @@ export default function AboutDoctor() {
               {/* Actual photo card placeholder */}
               <div className="overflow-hidden rounded-2xl shadow-xl border border-slate-100 bg-white relative">
                 <img
-                  src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80"
+                  src="/try1.JPG"
                   alt="Dr. Ankit J Desai (MDS)"
                   referrerPolicy="no-referrer"
                   className="w-full h-[450px] object-cover object-top hover:scale-102 transition-transform duration-500"
